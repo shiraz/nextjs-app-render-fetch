@@ -1,0 +1,1 @@
+# nextjs-app-render-fetch
